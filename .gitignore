@@ -1,4 +1,3 @@
-*.tfstate
-*.tfstate.backup
-*.tfvars
-*.tfplan
+version https://git-lfs.github.com/spec/v1
+oid sha256:b874c4ad1739466f53588b36bbdba2548ae7010f8b1ac168e8ca6fdf1a3f2001
+size 44
